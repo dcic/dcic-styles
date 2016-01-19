@@ -1,0 +1,27 @@
+html,
+body {
+  font-family: @font-family-base;
+}
+
+a {
+  /* Set default to override Bootstrap's default. */
+  color: @color-black;
+
+  &:hover,
+	&:active,
+	&:link,
+	&:visited {
+    color: @color-black;
+		cursor: pointer;
+		text-decoration: none;
+	}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: @font-family-accent;
+}
