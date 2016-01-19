@@ -3,8 +3,9 @@ Within this repository are a set of styles for use across BD2K-LINCS DCIC tools 
 
 ## Css
 You may use the following link to include the dcic styles in your project by adding to link below within the `<head></head>` tags of your HTML:
-     <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic.min.css">
-
+ ```HTML
+ <link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic.min.css">
+ ```
 ## Sass/Scss
 If your project is using [Sass/Scss](http://sass-lang.com/), you may download the files within the sass directory of this repository and include them directly in your project.
 
