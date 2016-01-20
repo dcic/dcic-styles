@@ -1,0 +1,23 @@
+{
+  "name": "dcic-styles",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dcic/dcic-styles",
+  "authors": [
+    "Michael McDermott <michael@mgmcdermott.com>"
+  ],
+  "description": "A common set of styles for use across the BD2K-LINCS DCIC tools and web applications.",
+  "main": "dcic.min.css",
+  "keywords": [
+    "BD2K",
+    "LINCS",
+    "DCIC"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
