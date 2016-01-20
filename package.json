@@ -1,0 +1,24 @@
+{
+  "name": "dcic-styles",
+  "version": "1.0.0",
+  "description": "A common set of styles for use across the BD2K-LINCS DCIC tools and web applications.",
+  "main": "dcic.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcic/dcic-styles.git"
+  },
+  "keywords": [
+    "BD2K",
+    "LINCS",
+    "DCIC"
+  ],
+  "author": "Michael McDermott <michael@mgmcdermott.com> (http://mgmcdermott.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcic/dcic-styles/issues"
+  },
+  "homepage": "https://github.com/dcic/dcic-styles#readme"
+}
