@@ -4,15 +4,14 @@ body {
 }
 
 a {
-  color: $color-black;
+  color: $color-primary;
 
   &:hover,
 	&:active,
-	&:link,
+	&:focus,
 	&:visited {
-    color: $color-black;
+    color: $color-primary-dark;
 		cursor: pointer;
-		text-decoration: none;
 	}
 }
 

@@ -10,11 +10,13 @@ $color-charcoal: #222222;
 $color-lightcharcoal: #808080;
 
 /* Logo and accent colors */
-$color-primary: #3593b1;
+$color-primary: #09505b;
 $color-primary-dusky-light: #C7E8F2;
 $color-primary-light: #599fb7;
-$color-primary-dark: #09505b;
+$color-primary-dark: darken(#09505b, 5%);
 $color-accent: #D16291;
+
+$nav-color: $color-primary;
 
 $color-twitter: #55acee;
 $color-twitter-dark: #3F8BC4;
