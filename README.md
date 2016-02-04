@@ -4,80 +4,25 @@ Within this repository are a set of styles for use across BD2K-LINCS DCIC tools 
 ## Palette
 ###Base Palette
 <h1 align="center">
- <img width="600" src="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic-palette.svg" alt="BD2K-LINCS DCIC" />
+ <img width="600" src="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic-base-palette.svg" alt="BD2K-LINCS DCIC" />
  <br />
 </h1>
 ###Secondary colors for icons/accents
 ####Red
-[Link to Hex and Colors](http://paletton.com/#uid=1020u0klcrubyGFgUv-pDo6sPj8)
-<table class="color-table">
-	<tbody><tr>
-		<th>Primary color:</th>
-		<td class="sample sample-1 primary-1">
-			<div class="white">#FFA8A3</div>
-		</td>
-		<td class="sample sample-2 primary-2">
-			<div class="white">#FC7D77</div>
-		</td>
-		<td class="sample sample-0 primary-0">
-			<div class="black">#DB514A</div>
-		</td>
-		<td class="sample sample-3 primary-3">
-			<div class="white">#C02E26</div>
-		</td>
-		<td class="sample sample-4 primary-4">
-			<div class="white">#98160F</div>
-		</td>
-	</tr>
-</tbody></table>
-
+<h1 align="center">
+ <img width="600" src="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic-red-palette.svg" alt="BD2K-LINCS DCIC" />
+ <br />
+</h1>
 ####Green
-[Link to Hex and Colors](http://paletton.com/#uid=12T0u0kw0dimAmOr9i5HJ8CSi4l)
-<table class="color-table">
-	<tbody><tr>
-		<th>Primary color:</th>
-		<td class="sample sample-1 primary-1">
-			<div class="black">#28893E</div>
-		</td>
-		<td class="sample sample-2 primary-2">
-			<div class="black">#116D25</div>
-		</td>
-		<td class="sample sample-0 primary-0">
-			<div class="black">#005012</div>
-		</td>
-		<td class="sample sample-3 primary-3">
-			<div class="black">#00340B</div>
-		</td>
-		<td class="sample sample-4 primary-4">
-			<div class="black">#001A06</div>
-		</td>
-	</tr>
-</tbody></table>
-
+<h1 align="center">
+ <img width="600" src="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic-green-palette.svg" alt="BD2K-LINCS DCIC" />
+ <br />
+</h1>
 ####Purple
-[Link to Hex and Colors](http://paletton.com/#uid=14I0u0kgDrR6OKgbEy2lhmTq1id)
-
-<table class="color-table">
-	<tbody><tr>
-		<th>Primary color:</th>
-		<td class="sample sample-1 primary-1">
-			<div class="black">#C4A8D3</div>
-		</td>
-		<td class="sample sample-2 primary-2">
-			<div class="black">#9B73AF</div>
-		</td>
-		<td class="sample sample-0 primary-0">
-			<div class="black">#7B4B94</div>
-		</td>
-		<td class="sample sample-3 primary-3">
-			<div class="white">#602D7A</div>
-		</td>
-		<td class="sample sample-4 primary-4">
-			<div class="white">#481661</div>
-		</td>
-	</tr>
-</tbody></table>
-
+<h1 align="center">
+ <img width="600" src="https://cdn.rawgit.com/dcic/dcic-styles/master/dcic-purple-palette.svg" alt="BD2K-LINCS DCIC" />
+ <br />
+</h1>
 ## Installing
 You may include the dcic styles in your project in three different ways:
 
